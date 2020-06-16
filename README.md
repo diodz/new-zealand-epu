@@ -67,7 +67,7 @@ Two additional indices have been created to provide potential for further ground
 Python 3.7 
 
 ### Authors:
-Diego Diaz 
+Diego Diaz
 Piyush Prafulkumar Tank
 Rukhshan Arif Mian
 
