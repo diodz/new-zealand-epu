@@ -3,6 +3,13 @@
 “But in the end it's only a passing thing, this shadow; even darkness must pass.”
 ― J.R.R. Tolkien, The Lord of the Rings
 
+### Authors:
+
+Diego Diaz\
+Piyush Prafulkumar Tank\
+Rukhshan Arif Mian
+
+### Objective
 Our objective is to create an economic policy uncertainty (EPU) index for New Zealand. Detailed information about this index can be found in our report. Below are the instructions to run/test our code. 
 
 ## Getting Started:
@@ -66,12 +73,6 @@ Two additional indices have been created to provide potential for further ground
 ### Built With:
 
 Python 3.7 
-
-### Authors:
-
-Diego Diaz\
-Piyush Prafulkumar Tank\
-Rukhshan Arif Mian
 
 #### Acknowledgements:
 
