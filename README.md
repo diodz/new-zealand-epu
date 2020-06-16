@@ -69,15 +69,15 @@ Python 3.7
 
 ### Authors:
 
-Diego Diaz
-Piyush Prafulkumar Tank
+Diego Diaz\
+Piyush Prafulkumar Tank\
 Rukhshan Arif Mian
 
 #### Acknowledgements:
 
-Professor Lamont Samuels
-Professor Diego Ferrari
-Professor Anne Rogers
-Sinclair Target
-Wanitchaya (Mint) Poonpatanapricha
+Professor Lamont Samuels\
+Professor Diego Ferrari\
+Professor Anne Rogers\
+Sinclair Target\
+Wanitchaya (Mint) Poonpatanapricha\
 Bogdan Alexandru Stoica
