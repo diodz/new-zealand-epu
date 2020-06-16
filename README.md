@@ -1,6 +1,5 @@
 ## New Zealand Economic Policy Uncertainty (EPU) 
 
-# Group Name: Lord of The Rings EPU (LOTR — EPU)
 “But in the end it's only a passing thing, this shadow; even darkness must pass.”
 ― J.R.R. Tolkien, The Lord of the Rings
 
