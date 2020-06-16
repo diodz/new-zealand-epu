@@ -1,28 +1,28 @@
-New Zealand Economic Policy Uncertainty (EPU) 
+## New Zealand Economic Policy Uncertainty (EPU) 
 
-Group Name: Lord of The Rings EPU (LOTR — EPU)
+# Group Name: Lord of The Rings EPU (LOTR — EPU)
 “But in the end it's only a passing thing, this shadow; even darkness must pass.”
 ― J.R.R. Tolkien, The Lord of the Rings
 
 Our objective is to create an economic policy uncertainty (EPU) index for New Zealand. Detailed information about this index can be found in our report. Below are the instructions to run/test our code. 
 
-Getting Started:
+# Getting Started:
 The following instructions will allow you to get a copy of the project on your machine for the purpose of testing.
 
-Installing: 
+# Installing: 
 Getting the repository:
 git clone https://github.com/diodz/new-zealand-epu.git
 
-Getting data on your machine: 
+# Getting data on your machine: 
 Our scrapped dataset consists of three files .pkl (one per newspaper) with a combined total of 169,535 newspaper articles, which add up to 528.3 MB. To download, run the following script from the shell, which will also create the required folders: 
 
 $sh get_files.sh 
 
-Running the tests:
+# Running the tests:
 Testing crawlers, data cleaning and creating Index (together):
 Run $sh run_all_scripts.sh for the following:
 
-Downloading the data
+# Downloading the data
 Testing crawlers for a small sample of data
 Cleaning sample data
 Creating the Economic Policy Uncertainty Index using downloaded data
@@ -30,7 +30,7 @@ Creating the Economic Policy Uncertainty Index using downloaded data
 The format of the data is printed while this script runs.
 
 
-Testing crawlers separately (for a small sample):
+# Testing crawlers separately (for a small sample):
 The crawlers took 2 weeks to run in order to scrape all required data (169,500 newspaper articles) for this project. The scripts directory contains the following scripts that scrape a small sample of data for each of the news sources.
 	
 Set the working directory to scripts and run the following for each news source in the terminal:
