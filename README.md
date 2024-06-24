@@ -68,7 +68,7 @@ This script appends the clean (downloaded) dataframes to return a dataframe with
 
 A plot for the Economic Policy Uncertainty Index is generated in the figures directory. 
 
-Two additional indices have been created to provide potential for further groundwork. These look at Natural Disasters and Domestic Violence respectively — plots for these can be found in the figures directory as well.
+Two additional indices have been created to provide potential for further groundwork, which look at Natural Disasters and Domestic Violence respectively — plots for these can be found in the figures directory as well.
 
 ### Built With:
 
